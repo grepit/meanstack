@@ -1,0 +1,27 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "This project was generated with [angular-cli](https://github.com/angular/angular-cli)  ``` ng -v As a forewarning, we are moving the CLI npm package to \"@angular/cli\" with the next release, which will only support Node 6.9 and greater. This package will be officially deprecated shortly after.",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "package.json": "^2.0.1",
+    "rxjs": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanoseconds/meanstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanoseconds/meanstack/issues"
+  },
+  "homepage": "https://github.com/nanoseconds/meanstack#readme"
+}
