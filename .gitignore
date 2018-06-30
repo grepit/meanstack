@@ -39,3 +39,4 @@ testem.log
 Thumbs.db
 rsa_private.key
 nanoseconds_us.crt
+nohup.out
