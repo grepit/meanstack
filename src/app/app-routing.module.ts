@@ -8,6 +8,7 @@ import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
 import { HomeComponent } from './home/home.component';
+import { ContactComponent } from './home/home.component';
 
 //the route configs
 const appRoutes: Routes = [
@@ -18,6 +19,7 @@ const appRoutes: Routes = [
   },
   { path: 'home', component: HomeComponent },
   { path: 'about', component: AboutComponent }
+  { path: 'about', component: ContactComponent }
 ];
 
 
